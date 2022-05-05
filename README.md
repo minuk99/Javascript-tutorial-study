@@ -5,7 +5,7 @@
 - 기간: 2022.05.06 ~
 - 학습 진행 사이트 : <https://ko.javascript.info/>
 
-## Ruels 
+## Rules
 
 #### 챕터 진행
 
